@@ -3,5 +3,5 @@
 - https://tedboy.github.io/mpl_doc/
 - https://tedboy.github.io/pandas_doc/
 - https://tedboy.github.io/pyspark_doc/
-
+- https://tedboy.github.io/sphinx_skeleton_published/
 
