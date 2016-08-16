@@ -1,4 +1,5 @@
 - https://tedboy.github.io/python_stl/
+- https://tedboy.github.io/statsmodels_doc/
 - https://tedboy.github.io/patsy_doc/
 - https://tedboy.github.io/bs4_doc/
 - https://tedboy.github.io/mpl/
