@@ -6,5 +6,6 @@
 - https://tedboy.github.io/pandas_doc/
 - https://tedboy.github.io/pyspark_doc/
 - https://tedboy.github.io/sphinx_skeleton_published/
+- https://tedboy.github.io/bash_tutorial
 
 https://github.com/tedboy?tab=repositories
