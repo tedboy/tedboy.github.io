@@ -6,6 +6,7 @@
 - https://tedboy.github.io/patsy_doc/
 - https://tedboy.github.io/bs4_doc/
 - https://tedboy.github.io/mpl/
+- https://tedboy.github.io/pandas/
 - https://tedboy.github.io/pandas_doc/
 
 **Obsolete ones**
