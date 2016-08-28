@@ -7,7 +7,8 @@
 - https://tedboy.github.io/bs4_doc/
 - https://tedboy.github.io/mpl/
 - https://tedboy.github.io/pandas/
-- https://tedboy.github.io/pandas_doc/
+- https://tedboy.github.io/numpy/
+- https://tedboy.github.io/scipy/
 
 **Obsolete ones**
 
