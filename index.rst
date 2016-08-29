@@ -2,6 +2,7 @@
 - https://tedboy.github.io/requests/
 - https://tedboy.github.io/jinja2/
 - https://tedboy.github.io/flask
+- https://tedboy.github.io/sphinx
 - https://tedboy.github.io/statsmodels_doc/
 - https://tedboy.github.io/patsy_doc/
 - https://tedboy.github.io/bs4_doc/
