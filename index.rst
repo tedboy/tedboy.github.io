@@ -10,6 +10,7 @@
 - https://tedboy.github.io/pandas/
 - https://tedboy.github.io/numpy/
 - https://tedboy.github.io/scipy/
+- https://tedboy.github.io/networkx/
 
 **Obsolete ones**
 
