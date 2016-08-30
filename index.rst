@@ -1,7 +1,7 @@
 - https://tedboy.github.io/python_stl/
 - https://tedboy.github.io/requests/
 - https://tedboy.github.io/jinja2/
-- https://tedboy.github.io/flask (incomplete)
+- https://tedboy.github.io/flask
 - https://tedboy.github.io/sphinx
 - https://tedboy.github.io/statsmodels_doc/
 - https://tedboy.github.io/patsy_doc/
