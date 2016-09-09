@@ -1,5 +1,5 @@
 - https://tedboy.github.io/python_doc/
-- https://tedboy.github.io/python_stl/
+- https://tedboy.github.io/python_stdlib/
 - https://tedboy.github.io/requests/
 - https://tedboy.github.io/jinja2/
 - https://tedboy.github.io/flask
@@ -18,5 +18,6 @@
 - https://tedboy.github.io/pyspark_doc/
 - https://tedboy.github.io/sphinx_skeleton_published_0816/
 - https://tedboy.github.io/bash_tutorial
+- https://tedboy.github.io/python_stl/
 
 https://github.com/tedboy?tab=repositories
