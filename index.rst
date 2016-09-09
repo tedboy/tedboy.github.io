@@ -1,5 +1,6 @@
 - https://tedboy.github.io/python_doc/
 - https://tedboy.github.io/python_stdlib/
+- https://tedboy.github.io/python_stdlib_doc/ (doc only, no api)
 - https://tedboy.github.io/requests/
 - https://tedboy.github.io/jinja2/
 - https://tedboy.github.io/flask
