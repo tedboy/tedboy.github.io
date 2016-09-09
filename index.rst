@@ -1,3 +1,4 @@
+- https://tedboy.github.io/python_doc/
 - https://tedboy.github.io/python_stl/
 - https://tedboy.github.io/requests/
 - https://tedboy.github.io/jinja2/
