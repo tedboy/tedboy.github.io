@@ -13,6 +13,7 @@
 - https://tedboy.github.io/numpy/
 - https://tedboy.github.io/scipy/
 - https://tedboy.github.io/networkx/
+- https://tedboy.github.io/nlps
 
 **Obsolete ones**
 
